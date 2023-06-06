@@ -25,6 +25,8 @@ I really like learning about technology, and what I'm doing now hopefully will h
   <img alt="ESlint" title="ESLint" align="left" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" />
 
    <br>
+   
+   <br>
 
 ### Tools
 <img width="35px" align="left" title="windows 10" alt="windows 10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" />
@@ -37,12 +39,14 @@ I really like learning about technology, and what I'm doing now hopefully will h
 
 <img width="35px" align="left" title="Microsoft Edge" alt="Microsoft Edge" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png" />
 
-<img width="35px" align="left" title="NPM" alt="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
+<img width="35px" align="left" title="NPM" alt="NPM" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
 
 <img width="35px" align="left" title="GIT" alt="GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
 
 <img width="35px" align="left" title="GITHUB" alt="GITHUB" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
+  <br>
+  
   <br>
 
  ### Github Statistic
@@ -54,6 +58,8 @@ I really like learning about technology, and what I'm doing now hopefully will h
 </p>
 
   
+<br>
+
 <br>
 
 ### Sosials Media

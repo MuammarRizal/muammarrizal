@@ -25,8 +25,9 @@ I really like learning about technology, and what I'm doing now hopefully will h
   <img alt="ESlint" title="ESLint" align="left" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" />
 
    <br>
+
 ### Tools
-<img width="35px" align="left" title="windows 10" alt="windows 10" src="https://w7.pngwing.com/pngs/675/674/png-transparent-windows-10-iot-microsoft-windows-iot-10-blue-angle-text-thumbnail.png" />
+<img width="35px" align="left" title="windows 10" alt="windows 10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" />
 
 <img width="35px" align="left" title="VS Code" alt="VSCode" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" />
 

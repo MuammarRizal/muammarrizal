@@ -29,11 +29,11 @@ I really like learning about technology, and what I'm doing now hopefully will h
 ### Tools
 <img width="35px" align="left" title="windows 10" alt="windows 10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" />
 
-<img width="35px" align="left" title="VS Code" alt="VSCode" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" />
+<img width="35px" align="left" title="VS Code" alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 
-<img width="35px" align="left" title="Chrome" alt="Chrome" src="https://img2.pngdownload.id/20180330/jje/kisspng-google-chrome-web-browser-logo-computer-icons-chrome-5abe01d7734775.9800718515224017514722.jpg" />
+<img width="35px" align="left" title="Chrome" alt="Chrome" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" />
 
-<img width="35px" align="left" title="Firefox" alt="Firefox" src="https://w7.pngwing.com/pngs/865/622/png-transparent-firefox-mozilla-foundation-web-browser-add-on-firefox-orange-logo-computer-wallpaper.png" />
+<img width="35px" align="left" title="Firefox" alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mozilla_Firefox_logo_2013.png" />
 
 <img width="35px" align="left" title="Microsoft Edge" alt="Microsoft Edge" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png" />
 
@@ -55,6 +55,7 @@ I really like learning about technology, and what I'm doing now hopefully will h
 
   
 <br>
+
 ### Sosials Media
   - Instagram : <a href="https://www.instagram.com/mmr_rizal/"> @mmr_rizal </a>
   - Facebook : <a href="https://www.facebook.com/muamar.rizal.9"> @Muamar Rizal </a>

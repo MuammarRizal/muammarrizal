@@ -1,9 +1,8 @@
-# Hi Everyone👋
-## I'm Muammar Rizal  
-Currently I am a student at Indraprasta University PGRI  
+# Welcome to my Repository
+## I'm Muammar Rizal Freshgraduate at Indraprasta University PGRI
+<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" align="right" alt="programmer gif" width="400"/>
 
 I really like learning about technology, and what I'm doing now hopefully will have an effect on the future
-
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning about front-end and back-end web developers
 - 👯 I’m looking to collaborate on to anyone
@@ -14,7 +13,7 @@ I really like learning about technology, and what I'm doing now hopefully will h
 ### Tech Stack
   <img alt="HTML" title="HTML" align="left" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
   <img alt="CSS" title="CSS" align="left" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
-  <img alt="JAVASCRIPT" title="JAVASCRIPT" align="left" width="35px" src="https://developerpitstop.com/wp-content/uploads/2022/01/Javascript_Logo.png?ezimgfmt=rs:0x0/rscb1/ngcb1/notWebP" />
+  <img alt="JAVASCRIPT" title="JAVASCRIPT" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
     <img alt="sass" title="sass" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
   <img alt="REACT" title="REACT" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img alt="node js" title="node js" align="left" width="35px" src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png" />

@@ -50,9 +50,9 @@ I really like learning about technology, and what I'm doing now hopefully will h
 
  ### Github Statistic
 <p align="left">
-<a href="https://github.com/MuammarRizal31">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuammarRizal31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuammarRizal31&layout=compact&langs_count=8&theme=algolia" />
+<a href="https://github.com/MuammarRizal">
+  <img width="69%" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuammarRizal&theme=algolia" />
+  <img width="30%" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuammarRizal&theme=algolia" />
 </a>
 </p>
 

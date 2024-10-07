@@ -10,43 +10,6 @@ I really like learning about technology, and what I'm doing now hopefully will h
 - 📫 How to reach me: muammarrizal2002@gmail.com
 - ⚡ Fun fact: enjoy playing games
   
-### Tech Stack
-  <img alt="HTML" title="HTML" align="left" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
-  <img alt="CSS" title="CSS" align="left" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
-  <img alt="JAVASCRIPT" title="JAVASCRIPT" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
-    <img alt="sass" title="sass" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-  <img alt="REACT" title="REACT" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-  <img alt="node js" title="node js" align="left" width="35px" src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png" />
-  <img alt="java" title="java" align="left" width="35px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
-  <img alt="Webpack" title="Webpack" align="left" width="35px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
-  <img alt="ESlint" title="ESLint" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" />
-  <img alt="Tailwind" title="Tailwind" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
-  <img alt="MySql" title="MySql" align="left" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" />
-
-   <br>
-   
-   <br>
-
-### Tools
-<img width="35px" align="left" title="windows 10" alt="windows 10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" />
-
-<img width="35px" align="left" title="VS Code" alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-
-<img width="35px" align="left" title="Chrome" alt="Chrome" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" />
-
-<img width="35px" align="left" title="Firefox" alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mozilla_Firefox_logo_2013.png" />
-
-<img width="35px" align="left" title="Microsoft Edge" alt="Microsoft Edge" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png" />
-
-<img width="35px" align="left" title="NPM" alt="NPM" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
-
-<img width="35px" align="left" title="GIT" alt="GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
-
-<img width="35px" align="left" title="GITHUB" alt="GITHUB" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-
-  <br>
-  
-  <br>
 
  ### Github Statistic
 <p align="left">

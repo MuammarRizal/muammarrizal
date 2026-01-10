@@ -15,12 +15,11 @@ What I do today is a small step toward creating a better digital future.
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working as a **Freelancer**
+- 🔭 Currently working as a Frontend Developer at **Allobank**
 - 🌱 Learning **Front-End & Back-End Web Development**
 - 👯 Open to **collaboration** on any interesting project
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 - 📫 Reach me at **muammarrizal2002@gmail.com**
-- ⚡ Fun fact: I enjoy playing games 🎮
 
 ---
 

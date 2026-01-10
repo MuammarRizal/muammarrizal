@@ -10,7 +10,7 @@
 🚀 **Tech Enthusiast | Web Developer**  
 
 I’m passionate about learning and building with technology.  
-What I do today is a small step toward creating a better digital future.
+“Just 1% better every day. No rush, just progress.”
 
 ---
 

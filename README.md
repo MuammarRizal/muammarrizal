@@ -9,14 +9,6 @@ I really like learning about technology, and what I'm doing now hopefully will h
 - 📫 How to reach me: muammarrizal2002@gmail.com
 - ⚡ Fun fact: enjoy playing games
   
- ### Github Statistic
-<p align="left">
-<a href="https://github.com/MuammarRizal">
-  <img width="69%" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuammarRizal&theme=algolia" />
-  <img width="30%" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuammarRizal&theme=algolia" />
-</a>
-</p>
-
 ### Sosials Media
   - Instagram : <a href="https://www.instagram.com/mmr_rizal/"> @mmr_rizal </a>
   - Facebook : <a href="https://www.facebook.com/muamar.rizal.9"> @Muamar Rizal </a>
